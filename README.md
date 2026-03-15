@@ -1,6 +1,5 @@
 <HTML>
 <HEAD>
-<TITLE> My first code </TITLE>
 </HEAD>
 <Body> 
 
